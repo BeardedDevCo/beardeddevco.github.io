@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hello World! Hello Bearded Dev Co Ltd!!
+author: Sean Campbell
 ---
 
 Its been a long time coming, anyone who knows me knows I have been talkign about making the jump in to contractng for years, I kept putting it off not having faith in my own skills. 
