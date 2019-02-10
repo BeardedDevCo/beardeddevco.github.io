@@ -10,6 +10,7 @@ Currently in MDK there is no way of getting the logged in user data from SCP. Fo
 
 open webIDE and create a blank UI5 App from the project template. Navigate to the neo-app.json file and add the following code. 
 
+
 <code>
 {
     "path":"/services/userapi",
